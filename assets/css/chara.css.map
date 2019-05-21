@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAC,EACX,QAAQ,EAAE,QAAQ,EAClB,KAAK,EAAE,KAAK,EACZ,MAAM,EAAE,KAAK,EACb,IAAI,EAAE,KAAK,EACX,GAAG,EAAE,IAAI,GAKZ;;AAVD,AAMI,cANU,CAMV,MAAM,CAAC,EACH,QAAQ,EAAE,QAAQ,EAClB,KAAK,EAAE,KAAK,GACf",
+    "sources": [
+        "../scss/chara.scss"
+    ],
+    "names": [],
+    "file": "chara.css"
+}
